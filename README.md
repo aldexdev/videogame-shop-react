@@ -5,8 +5,16 @@ Simple app built using ReactJS, Typescript and Rawg API (https://rawg.io/apidocs
 ### GET STARTED
 1. Clone the repository.
 
-2. Install all dependencies: npm install (or yarn install)
+2. Install all dependencies:
 
-3. Run the server locally: npm start
+```
+npm install
+```
 
-4. Enjoy!
+4. Run the server locally:
+
+```
+npm start
+```
+
+6. Enjoy!
